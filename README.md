@@ -17,12 +17,11 @@ Welcome to Swift Python Mastery, a comprehensive guide designed to help you lear
 🚀 Getting Started
 
 To get started, simply clone this repository and explore the provided examples. You can interact with ChatGPT for real-time support and guidance throughout your learning journey.
-
-```bash
 git clone https://github.com/yourusername/Swift-Python-Mastery-Learn-Fast-with-ChatGPT-AI.git
 
 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
 🙏 Acknowledgments
-A special thanks to ChatGPT AI for providing the guidance and resources necessary for mastering Python quickly and effectively. Happy coding! 🎉
+A special thanks to ChatGPT AI for providing the guidance and resources necessary for mastering Python quickly and effectively. 
+Happy coding! 🎉
