@@ -1,0 +1,5 @@
+
+
+Create a Python class representing a simple object, such as a `Car`. Include attributes for make, model, and year,
+and implement a method to display the car's information. Provide an example of creating an object of this class
+and calling the method.

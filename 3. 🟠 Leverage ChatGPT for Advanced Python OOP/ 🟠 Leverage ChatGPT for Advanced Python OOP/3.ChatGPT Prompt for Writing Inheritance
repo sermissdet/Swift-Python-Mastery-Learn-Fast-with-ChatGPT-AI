@@ -1,0 +1,5 @@
+
+
+Demonstrate inheritance in Python by creating a base class called `Vehicle` and a derived class called `Car`.
+The `Car` class should inherit attributes and methods from the `Vehicle` class. Provide code examples showing the
+implementation and usage of both classes.

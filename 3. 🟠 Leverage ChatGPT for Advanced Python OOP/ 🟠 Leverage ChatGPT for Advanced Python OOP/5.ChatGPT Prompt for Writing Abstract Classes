@@ -1,0 +1,6 @@
+
+
+
+Create an abstract class in Python using the `abc` module. Define an abstract method called `area`.
+Implement a derived class called `Rectangle` that provides a concrete implementation of the `area` method.
+Provide code examples for both the abstract class and the derived class.

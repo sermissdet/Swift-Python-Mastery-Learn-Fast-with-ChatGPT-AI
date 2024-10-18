@@ -1,0 +1,5 @@
+
+
+Explain polymorphism in Python and provide an example using two different classes (e.g., `Bird` and `Dog`)
+that implement a method called `sound`. Create a function that takes an object of either class and demonstrates
+polymorphism by calling the method.

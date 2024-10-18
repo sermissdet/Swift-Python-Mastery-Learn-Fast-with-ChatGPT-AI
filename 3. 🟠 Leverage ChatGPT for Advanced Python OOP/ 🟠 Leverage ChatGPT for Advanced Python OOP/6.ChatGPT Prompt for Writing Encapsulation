@@ -1,0 +1,6 @@
+
+
+
+Explain encapsulation in Python and demonstrate it by creating a class called `BankAccount`. Use private variables
+to store the account balance and implement methods to deposit money and get the balance. Provide code examples
+that illustrate how encapsulation is achieved.
