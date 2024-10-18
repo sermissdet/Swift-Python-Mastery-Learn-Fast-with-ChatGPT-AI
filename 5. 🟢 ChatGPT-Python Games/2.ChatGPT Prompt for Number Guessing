@@ -1,4 +1,2 @@
-
-
 Create a Python program where the computer picks a random number between 1 and 100, and the user has to guess it.
 Give feedback if the guess is too high or low.
