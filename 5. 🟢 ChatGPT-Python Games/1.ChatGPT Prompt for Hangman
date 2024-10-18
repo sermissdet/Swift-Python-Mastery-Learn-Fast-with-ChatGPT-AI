@@ -1,8 +1,2 @@
-
-
-
-
-
-
 Write Python code for "Hangman." The user guesses letters, and the program shows the word with blanks for
 guessed letters. Track wrong guesses.
